@@ -1,4 +1,4 @@
-#Pterodactyl Theme
+##Pterodactyl Theme
 
 Install script:
 ```sh
